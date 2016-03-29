@@ -1,0 +1,17 @@
+@relation 'Test_noName-weka.filters.unsupervised.attribute.Remove-R1-9,11-18,20-43'
+
+@attribute EventdensityMean numeric
+@attribute BrightnessMean numeric
+@attribute Class {Happy,Sad}
+
+@data
+2.701801,0.526112,Happy
+4.501501,0.560633,Happy
+2.413678,0.414454,Sad
+3.576294,0.576591,Happy
+2.299234,0.499202,Sad
+2.489068,0.273966,Sad
+4.5,0.527617,Happy
+1.871032,0.369103,Sad
+3.014066,0.383317,Sad
+4.193012,0.529594,Happy
